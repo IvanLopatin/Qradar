@@ -1,1 +1,1 @@
-# SIEM-CMDB_log_parsting
+# Parsing SIEM log and log CMDB for spltited and find hosts
