@@ -1,10 +1,9 @@
 #Create by Lopatin Ivan
 #Release version 1
 #Python version v.2.7
-#Parsing and mapping rows and lines for company Qiwi
+#Parsing and mapping rows and lines for company 
 ########################
 
-#Сделал для Вас максимально масштабируемый скрипт в,где очень легко вы сможете склеивать данные из таблиц если полей будет больше
 import re,csv
 from datetime import  datetime
 date_now = '2018-09-05'
