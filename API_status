@@ -1,16 +1,16 @@
 [
   {
-    "hostname": "",
+    "hostname": "HOST",
     "average_eps": 177,
     "status": "Active"
   },
   {
-    "hostname": "",
+    "hostname": "HOST",
     "average_eps": 471,
     "status": "Active"
   },
   {
-    "hostname": "",
+    "hostname": "HOST",
     "average_eps": null,
     "status": "Active"
   }
