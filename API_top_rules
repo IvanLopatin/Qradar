@@ -1,0 +1,14 @@
+Top rules where count > 100
+
+https://HOST/api/health_data/top_rules?fields=rule_name%2Ccount&filter=count%20%3E%20100
+
+[
+  {
+    "rule_name": "Excessive Firewall Denies from Single Source",
+    "count": 3002
+  },
+  {
+    "rule_name": "Excessive Firewall Denies from Local Host",
+    "count": 199
+  }
+]
