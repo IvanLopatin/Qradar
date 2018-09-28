@@ -1,0 +1,17 @@
+[
+  {
+    "hostname": "p210i43siemconsole01",
+    "average_eps": 177,
+    "status": "Active"
+  },
+  {
+    "hostname": "p210i43siemep01",
+    "average_eps": 471,
+    "status": "Active"
+  },
+  {
+    "hostname": "u049i03vflow01",
+    "average_eps": null,
+    "status": "Active"
+  }
+]
