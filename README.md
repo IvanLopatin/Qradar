@@ -1,5 +1,5 @@
 # Qradar
-Qradar monitoring 
+Qradar monitoring  
 
 
 Статистика сбора информации о месте с одного хоста по всей архитектуре
